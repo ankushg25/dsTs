@@ -1,0 +1,12 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "es2015",
+        "module": "commonjs",
+        "sourceMap": true,
+        "alwaysStrict": true,
+        "checkJs": true,
+        "allowJs": true
+    },
+    "files": ["trie.ts"]
+}
